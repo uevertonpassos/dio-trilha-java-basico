@@ -20,7 +20,7 @@ public class ContaTerminal {
 
         scanner.close();
 
-        System.out.println("\"Ol\u00E1"+ NomeCliente + "obrigado por criar uma conta em nosso banco, sua ag\u00EAncia \u00E9" + Agencia +", conta " + Numero+ "e seu saldo "+ Saldo +" j\u00E1 est\u00E1 dispon\u00EDvel para saque\".");
+        System.out.println("Olá "+ NomeCliente + ", obrigado por criar uma conta em nosso banco, sua agência é " + Agencia +", conta " + Numero + " e seu saldo "+ Saldo +" já está disponível para saque");
 
 
 
